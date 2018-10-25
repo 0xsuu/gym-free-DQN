@@ -19,7 +19,7 @@ This is an implementation of the Deep Q Network initially published on Nature pa
 <http://add-link-later>
 """
 
-from dqn_queue_memory_interface import *
+from dqns.dqn_queue_memory_interface import *
 
 
 class DQNNatureInterface(DQNQueueMemoryInterface):

@@ -14,7 +14,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
-from dqn_prioritised_memory_interface import *
+from dqns.dqn_prioritised_memory_interface import *
 
 prioritized_replay_epsilon = 1e-6
 

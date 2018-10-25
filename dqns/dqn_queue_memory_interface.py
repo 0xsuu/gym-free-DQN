@@ -14,7 +14,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
-from dqn_interface import *
+from dqns.dqn_interface import *
 
 from collections import deque
 from random import sample

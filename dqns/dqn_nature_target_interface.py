@@ -18,7 +18,7 @@
 DQN Nature version with delayed update of the online network (using a target network).
 """
 
-from dqn_queue_memory_interface import *
+from dqns.dqn_queue_memory_interface import *
 
 
 class DQNNatureTargetInterface(DQNQueueMemoryInterface):

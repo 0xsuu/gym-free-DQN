@@ -14,7 +14,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
-from dqn_queue_memory_interface import *
+from dqns.dqn_queue_memory_interface import *
 
 
 class DoubleDQN(DQNQueueMemoryInterface):

@@ -14,9 +14,9 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
-from dqn_interface import *
+from dqns.dqn_interface import *
 
-from third_party.replay_buffer import PrioritizedReplayBuffer
+from dqns.third_party.replay_buffer import PrioritizedReplayBuffer
 
 prioritised_memory_alpha = 0.6
 
